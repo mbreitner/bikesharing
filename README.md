@@ -1,5 +1,6 @@
 # bikesharing
-
+### Link to my tableau public page
+https://public.tableau.com/app/profile/matthew.breitner/viz/BikesharingAnalysis_16319849276720/NYCBikeAnalysis?publish=yes
 ## Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis was to analyze Citi bike data in NYC to see if there were any identifiable trends that can be used for launching a citi bike location in another city. 
 I used Pandas to convert my data into different data types so it would be easier to use in Tableau. I was then able to upload my new csv file into Tableau and create visualizations to help display my data. 
