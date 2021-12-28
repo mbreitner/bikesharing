@@ -34,8 +34,6 @@ Results: Please see the following images that highlight the results of my analys
 ![Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/84791455/133946661-cbe0b1a0-5c05-4ea2-8593-d54225066502.PNG)
 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
 Overall, our analysis has proven that men are more likely than women to ride a citibike. We have also found that the average ride time will range from about 5-30 minutes. Ridership is more popular during the standard commuting hours in the morning and the afternoon. This data was consistent for both men and women, but again reinforced the idea that men are more likely to ride a citi bike. I was also able to find that ridership was increased on the weekends throughout the standard working hours, this is likely due to more people having free time to ride on the weekends compared to the middle of the week. A signifcant data point that became aparent as well, was the fact that most riders would be willing to sign up for a subscription service. This was consistent across genders and days of the week. 
 
 Two other datapoints that I would be interested in creating visualizations is 1. Age of the riders and 2. Average distance travelled in miles. 
